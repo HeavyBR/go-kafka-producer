@@ -14,5 +14,5 @@ For ubuntu users
 
 `docker-compose up -d`
 
-*kafdrop* will run on port `29000` and *kafka server* will run on `29092`
+*kafdrop* will run on port `29000` and *kafka server* will run on `9092`
 
